@@ -1,0 +1,8 @@
+{
+  "name": "Cheat Simulator Exam",
+  "description": "沉浸式考试作弊模拟器 - 使用头部姿态和手势控制的React游戏",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
